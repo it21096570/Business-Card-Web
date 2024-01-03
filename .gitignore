@@ -1,1 +1,31 @@
+<<<<<<< HEAD
 node_modules
+=======
+<<<<<<< HEAD
+node_modules
+=======
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+>>>>>>> fe1d909b7e29bc39a691f1fbff4d9421ce66aa29
+>>>>>>> 312e74438ccda93fea6223ec7f5c9a0db894800c
